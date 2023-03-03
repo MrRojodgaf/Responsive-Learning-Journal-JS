@@ -63,7 +63,7 @@ i {
     grid-template: 15% 1fr 1fr 25% 0em/ 0.2em 1fr 1fr 1fr 0em;
     gap: 0.5em;
     width: 100%;
-    background: url(images/intro-section-img.png);
+    background-image: url(https://linuxhint.com/wp-content/uploads/2022/06/How-to-fix-Sticky-Keys-of-a-Laptop-1.png);
     background-size: cover;
     height: 200px;
     color: #fff;

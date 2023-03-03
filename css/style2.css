@@ -27,10 +27,6 @@ body {
     font-family: 'roboto';
 }
 
-.nav {
-    
-}
-
 .nav .home {
     margin-right: 10px;
 }
@@ -59,9 +55,9 @@ i {
 
 .intro-img {
     margin: auto;
-    background: url(images/intro-section-img.png);
+    background: url(https://img4.goodfon.com/wallpaper/nbig/3/7a/noutbuk-klaviatura-tsvety-fon.jpg);
     background-size: cover;
-    height: 200px;
+    height: 300px;
     color: #fff;
     font-family: 'Source Sans Pro';
 }
