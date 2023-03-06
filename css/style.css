@@ -11,6 +11,7 @@ body {
     max-width: 1000px;
     margin: auto;
     background: #D7D7D7;
+    min-height: 100vh;
 }
 
 .header {
