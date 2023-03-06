@@ -8,7 +8,6 @@ body {
 .wrapper {
     border: 1px solid grey;
     border-radius: 5px;
-    max-width: 1000px;
     margin: auto;
     background: #D7D7D7;
     min-height: 100vh;
