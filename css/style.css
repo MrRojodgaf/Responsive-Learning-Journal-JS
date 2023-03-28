@@ -21,6 +21,7 @@ body {
     width: 95%;
     min-width: 250px;
     padding: 0.1rem 0;
+    color: green;
 }
 
 .icon-header span {
